@@ -8,4 +8,23 @@ We actually came to concession as to form this team, just as we were driven by A
 
 We are very optimistic about deploying the power of modern technology to promote citizen safety, and that's our driving force.
 
+Our team is made up of four members, viz are:
+Sikiru Shittu - Back-end Developer
+God'spower Alo - Front-end Developer
+Onojakpor Ochuko - Back-end Developer & AI
+Duru Ifeanyi - IoT Developer & Cloud computing 
+
+We have a mentor who is the person of:
+Austin Asoluka - A Web Developer & JavaScript Expert
+
+
+The Problem:
+
+
+Our Solution:
+
+
+Benefits:
+
+
 Thanks.
