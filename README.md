@@ -1,4 +1,4 @@
-# Soteria
+# AppTeria
 
 Welcome to Team-Soteria. 
 
