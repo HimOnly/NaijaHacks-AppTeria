@@ -8,23 +8,33 @@ We actually came to concession as to form this team, just as we were driven by A
 
 We are very optimistic about deploying the power of modern technology to promote citizen safety, and that's our driving force.
 
+#Team Members
 Our team is made up of four members, viz are:
-Sikiru Shittu - Back-end Developer
+Goddy Amaka - Front-end Developer 
+Ahmed Mohammed  - Back-end Developer
 God'spower Alo - Front-end Developer
-Onojakpor Ochuko - Back-end Developer & AI
-Duru Ifeanyi - IoT Developer & Cloud computing 
+Stephen Solomon - IOT & Front-end Developers 
+
+
 
 We have a mentor who is the person of:
-Austin Asoluka - A Web Developer & JavaScript Expert
+Amujo Oluwasomidotun - A Web Developer & JavaScript Expert
 
 
-The Problem:
+#The Problem:
+Project brief :
+
+Home appliances are one of the major fire out break courses in anywhere in the world and cost lost of lifes and properties.
+
+The major course is unstable power supply.
+
+#Our Solution:
+So our solution will monitor user entire home when no one is home or office it automatically switch all electrical appliances off and also these appliances can be controlled from user mobile phone.
 
 
-Our Solution:
 
 
-Benefits:
+#Benefits:
 
 
 Thanks.
