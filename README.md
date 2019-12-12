@@ -1,6 +1,6 @@
 # AppTeria
 
-Welcome to Team-Soteria. 
+Welcome to Brainers Team. 
 
 We are a team of tech savy guys, who are passionate and ethusaitic about employing and maximizing the potentials of modern technology to solve life-threatnen security issues.
 
@@ -13,12 +13,12 @@ Our team is made up of four members, viz are:
 Goddy Amaka - Front-end Developer 
 Ahmed Mohammed  - Back-end Developer
 God'spower Alo - Front-end Developer
-Stephen Solomon - IOT & Front-end Developers 
+Stephen Solomon - IOT & Front-end Developer 
 
 
 
 We have a mentor who is the person of:
-Amujo Oluwasomidotun - A Web Developer & JavaScript Expert
+Amujo Oluwasomidotun
 
 
 #The Problem:
